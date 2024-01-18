@@ -58,7 +58,7 @@ To execute this analysis:
 
 1. Ensure Python, Pandas, and Matplotlib are installed on your system.
 2. Clone the repository containing the script and dataset.
-3. Run the Python script to perform the analysis and generate visualizations.
+3. Run the Python script `netflix_movie_duration_analysis.py` to perform the analysis and generate visualizations.
 
 ## From DataCamp Portfolio
 https://app.datacamp.com/workspace/w/3b9f64e2-3fb2-48a4-b797-8459a7a2b3f4/edit
